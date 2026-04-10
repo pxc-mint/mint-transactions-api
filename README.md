@@ -35,7 +35,6 @@ With the `transactionId` replaced by the ID of the transaction, received from MI
     "message": "The given profile is invalid",
     "errors": [
         {
-            "target": "PV-INV-01",
             "code": "INVALID_PROFILE",
             "message": "'requestedEnergy' can not be used together with 'requestedRange'"
         }
